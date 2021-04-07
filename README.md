@@ -3,7 +3,7 @@
 A DropWizard project with 3 routes
 
 How to:
-1. Download project as a zip and unzip it OR clone repo from terminal
+1. Download project as a zip file and unzip it OR clone repo from terminal
 2. Navigate to the project in terminal
 3. CD into project
 4. Run "java -jar target/hello-world-0.0.1-SNAPSHOT.jar server hello-world.yml" to start project
